@@ -1,0 +1,12 @@
+# User specific files
+.idea/
+.vscode/
+
+# Build folder
+out/
+
+# macOS Finder metadata file
+.DS_Store
+
+# Device specific project data files
+Players.txt
